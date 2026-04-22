@@ -1,0 +1,7 @@
+{
+  "name": "Py7 images tool final",
+  "description": "A comprehensive online image editing and processing toolkit inspired by Pi7, featuring AI enhancements powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
